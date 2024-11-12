@@ -9,7 +9,7 @@ Projeto desenvolvido para o Checkpoint 1
 - Nome:Victor Augusto Wittner                   RM:98667
 
 ## Descrição do Projeto
-Este Projeto recebe e devolve uma sequencia de Necleotideos.
+Este projeto recebe e devolve uma sequência de nucleotídeos.
 
 ### Funcionalidades Principais
 - Recebe um arquivo .txt com uma sequências de nucleotídeos A, C, T e G
